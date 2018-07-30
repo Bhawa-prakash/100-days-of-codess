@@ -1,0 +1,13 @@
+<html>
+<head>   </head>
+
+<body>
+  <script>
+   var s =-5;
+    if(s>0)
+	document.write(s+"is a positive number");
+else
+    document.write(s+"is a non positive number");
+  </script>
+</body>
+</html>
